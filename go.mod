@@ -1,3 +1,3 @@
-module github.com/PPKB-Team/go-stats
+module github.com/PPKB-Team/gostats
 
 go 1.15
